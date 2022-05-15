@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InfiniteJester", "InfiniteJester\InfiniteJester.csproj", "{1982A5CB-949F-4C2F-A151-72044F2891BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestInfiniteJester", "TestInfiniteJester\TestInfiniteJester.csproj", "{E75606E0-5F36-42AC-9FB2-E6B7C0D8BA9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1982A5CB-949F-4C2F-A151-72044F2891BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1982A5CB-949F-4C2F-A151-72044F2891BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1982A5CB-949F-4C2F-A151-72044F2891BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1982A5CB-949F-4C2F-A151-72044F2891BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75606E0-5F36-42AC-9FB2-E6B7C0D8BA9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75606E0-5F36-42AC-9FB2-E6B7C0D8BA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75606E0-5F36-42AC-9FB2-E6B7C0D8BA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75606E0-5F36-42AC-9FB2-E6B7C0D8BA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {652ADD3C-C918-4339-B764-7212EC09A3E9}
+	EndGlobalSection
+EndGlobal
